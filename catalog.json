@@ -1,0 +1,4 @@
+{
+  "payload": "{\"updated\":\"2026-10-22T23:20:21.658Z\",\"scenes\":[{\"id\":\"windmill\",\"version\":\"1.0.0\",\"file\":\"packs/windmill.js\",\"name\":\"Windmill Hill\",\"blurb\":\"Turning sails, tulips and grazing sheep\",\"medium\":\"Pastel\",\"thumb\":\"radial-gradient(circle at 36% 48%, #efe6d2 0 6%, transparent 6.5%), linear-gradient(transparent 62%, #6f9a48 62%), linear-gradient(#7fb0db, #d7e8ef)\",\"sha256\":\"82aa1efe7c36a6d9f822bda3310b3c40813f468e3317ef1b07ccfe158d88c896\"}]}",
+  "signature": "7I+0un1ycsqVzvD7so9okwwPUVBI6AWfewvZKFG4WsQN+FAbuQ6w+5CsA1YFG7qIzezgKsd/rsTFDW9iPDkfBg=="
+}
